@@ -1,4 +1,5 @@
-BrxndonEdie.io
+<h1>BrxndonEdie.io</h1>
+<hr>
 A Kid that enjoys web development
 
 Also here's a Javascript function to validate an email address:
